@@ -1,4 +1,4 @@
-import pyautogui
+cimport pyautogui
 
 
 pyautogui.PAUSE = 0.5
